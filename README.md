@@ -59,7 +59,7 @@
     <div class="max-w-6xl mx-auto px-4 text-center">
       <h3 class="font-bold text-red-700 text-xl mb-2">Radha Krishna Pujan Bhandar</h3>
       <p class="text-gray-700 mb-2">आपकी हर पूजा की तैयारी का भरोसेमंद साथी – श्रद्धा और गुणवत्ता के साथ</p>
-      <p class="text-gray-700 mb-2">📞 Contact: 8090077768 | WhatsApp Available</p>
+      <p class="text-gray-700 mb-2">📞 Contact: 8090077768 | WhatsApp Available</p> : 8090077768
       <p class="text-gray-700 mb-2">📍 Address: Manju Sahu Genral Store, कोयला नगर, स्वर्ण जयंती विहार, दहली सुजानपुर, कानपुर, उत्तर प्रदेश</p>
       <p class="text-gray-700"><a href="https://maps.app.goo.gl/8qsqmZVsnKyYrApm6" target="_blank" class="text-blue-700 underline">View on Google Maps</a></p>
       <p class="text-gray-600 mt-4">© 2025 Radha Krishna Pujan Bhandar. All rights reserved.</p>
