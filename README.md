@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Radha Krishna Pujan Bhandar</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 font-sans">
+
+  <!-- Header -->
+  <header class="bg-yellow-100 shadow-md">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+      <h1 class="text-2xl font-bold text-red-700">✨ Radha Krishna Pujan Bhandar ✨</h1>
+      <a href="https://wa.me/918090077768" target="_blank" class="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700">Order on WhatsApp</a>
+    </div>
+  </header>
+
+  <!-- Hero Banner -->
+  <section class="relative bg-cover bg-center h-[70vh] flex items-center justify-center" style="background-image: url('https://images.unsplash.com/photo-1606312619349-1526e9a8d4e7?auto=format&fit=crop&w=1400&q=80');">
+    <div class="bg-black/50 p-8 rounded-xl text-center">
+      <h2 class="text-4xl md:text-5xl text-yellow-300 font-bold mb-4">आपकी हर पूजा की तैयारी का भरोसेमंद साथी – श्रद्धा और गुणवत्ता के साथ</h2>
+      <div class="space-x-4">
+        <a href="#products" class="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700">Shop Now</a>
+        <a href="https://wa.me/918090077768" target="_blank" class="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700">Order on WhatsApp</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Us Section -->
+  <section id="about" class="max-w-6xl mx-auto px-4 py-12">
+    <h2 class="text-3xl font-bold text-center text-red-700 mb-6">हमारे बारे में</h2>
+    <p class="text-gray-700 text-center max-w-3xl mx-auto">
+      Radha Krishna Pujan Bhandar, Raebareli में स्थित है। हम आपकी हर पूजा के लिए शुद्ध और विश्वसनीय सामग्री प्रदान करते हैं। हमारी प्राथमिकता है श्रद्धा, समर्पण और गुणवत्ता।
+    </p>
+  </section>
+
+  <!-- Products Section -->
+  <section id="products" class="max-w-6xl mx-auto px-4 py-12">
+    <h2 class="text-3xl font-bold text-center text-red-700 mb-8">🪔 हमारी पूजा सामग्री 🪔</h2>
+    <p class="text-gray-700 text-center mb-6">
+      हमारी दुकान पर पूजा की सभी सामग्री उपलब्ध है – सारी सामग्री उपलब्ध है।
+    </p>
+  </section>
+
+  <!-- Contact Us Section -->
+  <section id="contact" class="bg-yellow-100 py-12">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+      <h2 class="text-3xl font-bold text-red-700 mb-6">संपर्क करें</h2>
+      <p class="text-gray-700 mb-2">📞 Phone: 8090077768</p>
+      <p class="text-gray-700 mb-2">📱 WhatsApp: <a href="https://wa.me/918090077768" class="text-green-700 underline">Send Message</a></p>
+      <p class="text-gray-700 mb-2">📍 Address: Manju Sahu Genral Store, कोयला नगर, स्वर्ण जयंती विहार, दहली सुजानपुर, कानपुर, उत्तर प्रदेश</p>
+      <p class="text-gray-700"><a href="https://maps.app.goo.gl/8qsqmZVsnKyYrApm6" target="_blank" class="text-blue-700 underline">View on Google Maps</a></p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-yellow-100 py-6 mt-12">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+      <h3 class="font-bold text-red-700 text-xl mb-2">Radha Krishna Pujan Bhandar</h3>
+      <p class="text-gray-700 mb-2">आपकी हर पूजा की तैयारी का भरोसेमंद साथी – श्रद्धा और गुणवत्ता के साथ</p>
+      <p class="text-gray-700 mb-2">📞 Contact: 8090077768 | WhatsApp Available</p>
+      <p class="text-gray-700 mb-2">📍 Address: Manju Sahu Genral Store, कोयला नगर, स्वर्ण जयंती विहार, दहली सुजानपुर, कानपुर, उत्तर प्रदेश</p>
+      <p class="text-gray-700"><a href="https://maps.app.goo.gl/8qsqmZVsnKyYrApm6" target="_blank" class="text-blue-700 underline">View on Google Maps</a></p>
+      <p class="text-gray-600 mt-4">© 2025 Radha Krishna Pujan Bhandar. All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
