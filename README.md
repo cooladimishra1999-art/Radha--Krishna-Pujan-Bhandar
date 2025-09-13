@@ -12,7 +12,7 @@
   <header class="bg-yellow-100 shadow-md">
     <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
       <h1 class="text-2xl font-bold text-red-700">✨ Radha Krishna Pujan Bhandar ✨</h1>
-      <a href="https://wa.me/918090077768" target="_blank" class="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700">Order on WhatsApp</a>
+      <a href="https://wa.me/918090077768" target="_blank" class="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700">Order on WhatsApp</a> : 8090077768
     </div>
   </header>
 
